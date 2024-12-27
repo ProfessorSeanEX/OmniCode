@@ -1,0 +1,2 @@
+DEFINE_OPERATION(name="ADD", action="value1 + value2") @metadata(anchor="Genesis 1:28", purpose="Arithmetic")
+EXECUTE_OPERATION(name="ADD", inputs=[3, 5], output="Sum") @metadata(anchor="Proverbs 6:8", purpose="Harvest Preparation")
